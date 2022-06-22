@@ -1,4 +1,7 @@
-# flutter_project_structure
+# Flutter Project Structure
+
+![Screenshot 2022-06-23 002429](https://user-images.githubusercontent.com/87581799/175124751-5c98bd4e-6041-4800-b524-63b6344824f5.jpg)
+
 
 A new Flutter project.
 
